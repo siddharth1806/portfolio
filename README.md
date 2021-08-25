@@ -3,11 +3,6 @@
 
 ## Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.
 
-<p align="center">
-  <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
-  </kbd>
-</p>
 
 ### To view a live example, **[click here](https://developer-portfolio.1hanzla100.vercel.app/)**.
 
